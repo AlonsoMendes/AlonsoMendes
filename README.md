@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
+[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Alonso Mendes </sub>](https://github.com/AlonsoMendes) |
+| :---: | 
