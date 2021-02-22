@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 - 🎓 Cursando Ciência da Computação 6° Semestre UNIP 
 - 📚 Atualmente estou estudando Java, Spring Boot 
 - 📚 Cursando o bootcamp de desenvolvimento Java pela Generation Brasil.
