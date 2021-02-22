@@ -6,3 +6,4 @@
 - 📩 Alonso_Mendess@hotmail.com
 - 💻 https://www.linkedin.com/in/alonso-mendes-15a26b1b6/
 
+[! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ?username = AlonsoMendes )] (https://github.com/anuraghazra/github-readme-stats)
