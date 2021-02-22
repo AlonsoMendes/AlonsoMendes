@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
-[<img src="https://avatars.githubusercontent.com/u/64035001?s=460&u=e0bdede595e70528fed1b2ea5ba820fdc2086a82&v=4=" width=115 > <br> <sub> Alonso Mendes </sub>](https://github.com/AlonsoMendes) |
-| :---: | 
+🎓 Cursando Ciência da Computação 6° Semestre UNIP 
+📚 Atualmente estou estudando Java, Spring Boot 
+📚 Cursando o bootcamp de desenvolvimento Java pela Generation Brasil.
+📩 Alonso_Mendess@hotmail.com
+💻 https://www.linkedin.com/in/alonso-mendes-15a26b1b6/
