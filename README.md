@@ -7,7 +7,7 @@
 - 💻 Amante da tecnologia 
 
 
-<h2><bold>:handshake: Você me pode encontrar em:handshake:</bold></h2> 
+<h2><bold>:handshake: Você pode me encontrar em:handshake:</bold></h2> 
 <table align = "center">
         <tr>
         <td>
