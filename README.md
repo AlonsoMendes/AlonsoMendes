@@ -44,8 +44,7 @@
     </tr>
 </table>
 
-
-<h2><bold>:handshake: Você pode me encontrar em:handshake:</bold></h2> 
+<h2><bold>:handshake: Contate-me:handshake :</bold></h2>
 <table align = "center">
         <tr>
         <td>
@@ -55,7 +54,7 @@
             </div>
         </td>
           <tr>
- </table>       
+ </table>        
  
 
 ### ⚡ Github Stats </b> </summary>
