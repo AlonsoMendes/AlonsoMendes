@@ -6,6 +6,8 @@
 - 📩 Alonso_Mendess@hotmail.com
 - 💻 Amante da tecnologia 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMendes&theme=blue-green)
+
 
 <h2><bold>:handshake: Você pode me encontrar em:handshake:</bold></h2> 
 <table align = "center">
