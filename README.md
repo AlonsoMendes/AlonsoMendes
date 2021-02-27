@@ -59,8 +59,10 @@
 
 ### ⚡ Github Stats </b> </summary>
 <div align = "left">
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMendes&theme=blue-green"/>	
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMendes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs"/>	
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AlonsoMendes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</div>
+</div>	
+
+
 
 
