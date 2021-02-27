@@ -6,9 +6,6 @@
 - 📩 Alonso_Mendess@hotmail.com
 - 💻 Amante da tecnologia 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMendes&theme=blue-green)
-
-
 </table>         
 <p align = "center">
 <h2><bold> :rocket: Skills :rocket: </bold></h2> </p>
@@ -59,3 +56,11 @@
         </td>
           <tr>
  </table>       
+
+### ⚡ Github Stats </b> </summary>
+<div align = "left">
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMendes&theme=blue-green"/>	
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=AlonsoMendes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div>
+
+
