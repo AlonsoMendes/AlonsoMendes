@@ -44,7 +44,8 @@
     </tr>
 </table>
 
-<h2><bold>:handshake: Contate-me:handshake :</bold></h2>
+
+<h2><bold>:handshake: Contact me :handshake:</bold></h2>
 <table align = "center">
         <tr>
         <td>
@@ -54,9 +55,9 @@
             </div>
         </td>
           <tr>
- </table>        
+ </table>  
+      
  
-
 ### ⚡ Github Stats </b> </summary>
 <div align = "left">
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoMendes&theme=blue-green"/>	
