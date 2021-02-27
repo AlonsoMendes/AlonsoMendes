@@ -7,7 +7,7 @@
 - 💻 Amante da tecnologia 
 
 
-
+<table align = "center">
 <h2><bold>:handshake: Contact me :handshake:</bold></h2> 
 <table align = "center">
         <tr>
