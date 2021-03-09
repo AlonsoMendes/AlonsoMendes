@@ -4,7 +4,6 @@
 - 📚 Atualmente estou estudando Java, Spring Boot 
 - 📚 Cursando o bootcamp de desenvolvimento Java pela Generation Brasil.
 - 📩 Alonso_Mendess@hotmail.com
-- 💻 Amante da tecnologia 
 
 </table>         
 <p align = "center">
