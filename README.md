@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🎓 Cursando Ciência da Computação 6° Semestre UNIP 
-- 📚 Atualmente estou estudando Java, Spring Boot 
-- 📚 Cursando o bootcamp de desenvolvimento Java pela Generation Brasil.
+- 🎓 Cursando Ciência da Computação 7° Semestre UNIP 
+- 📚 Atualmente estou estudando Java, Python, Spring Boot, Angular e IA.
+- Estagiando na IBM.
 - 📩 Alonso_Mendess@hotmail.com
 
 </table>         
