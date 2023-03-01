@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Ciência da Computação 8° Semestre UNIP 
 - 📚 Atualmente estou estudando Java, Python, Spring Boot, Angular e IA.
-- Estagiando na IBM.
+- Junior Application Developer
 - 📩 Alonso_Mendess@hotmail.com
 
 </table>         
