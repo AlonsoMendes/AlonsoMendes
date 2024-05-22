@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🎓 Cursando Ciência da Computação 8° Semestre UNIP 
-- 📚 Atualmente estou estudando Java, Python, Spring Boot, Angular e IA.
-- Junior Application Developer
+- 🎓 Formado em Ciência da Computação
+- 📚 Atualmente estou estudando Python, IA e LLM.
+- Junior Application Developer/Curador de Bots na IBM
 - 📩 Alonso_Mendess@hotmail.com
 
 </table>         
